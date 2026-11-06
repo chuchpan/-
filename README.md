@@ -1,50 +1,52 @@
-# -<div align="center">
+<div align="center">
 
-# ? Привет, я Милена
+# ? Привет, я Милена!
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН&show_icons=true&theme=radical)](https://github.com/ВАШ_ЛОГИН/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_ЛОГИН&layout=compact&theme=radical)](https://github.com/ВАШ_ЛОГИН/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=milenakot&show_icons=true&theme=onedark)](https://github.com/milenakot/github-readme-stats)
+[![Milena's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenakot&layout=compact&theme=onedark)](https://github.com/milenakot/github-readme-stats)
 
 </div>
 
 ## ? О себе
 
-Краткое профессиональное представление (2–3 предложения). Кто вы, чем занимаетесь и какая у вас специализация.
-*Пример: Frontend-разработчик с опытом 3 года. Специализируюсь на создании адаптивных интерфейсов с использованием React и TypeScript. Люблю оптимизировать производительность и писать чистый, поддерживаемый код.*
+Привет! Я Full-Stack разработчик, влюбленный в создание чистых интерфейсов и надежных бэкендов. Пишу код, который легко читать, и обожаю решать сложные задачи с помощью Python и JavaScript. В свободное от кода время изучаю UX-дизайн и пеку чизкейки.
 
-## ? Технический стек
+## ? Текущие навыки
 
-**Языки:** Python, JavaScript, TypeScript
-**Frontend:** React, Vue, HTML5, CSS3, SASS
-**Backend:** Node.js, Django, FastAPI
-**Базы данных:** PostgreSQL, MongoDB, Redis
-**Инструменты:** Git, Docker, Linux, CI/CD
+**Ядро:** Python, JavaScript, TypeScript
+**Фронтенд:** React, Next.js, Redux Toolkit, Tailwind CSS
+**Бэкенд:** Django, Django REST Framework, FastAPI, PostgreSQL
+**Инфраструктура:** Docker, GitHub Actions, Linux
 
 ## ? Избранные проекты
 
-### [Название проекта 1](ссылка_на_репозиторий)
-Краткое описание того, что делает проект и какую проблему решает.
-* **Технологии:** React, TypeScript, Redux Toolkit
-* **Особенности:** Реализована авторизация через JWT, адаптивная верстка.
+### [TravelPlanner](https://github.com/milenakot/travel-planner)
+Интерактивный планировщик путешествий с поиском билетов и отелей.
+*   **Стэк:** React, TypeScript, Express.js, MongoDB
+*   **Фичи:** Интеграция с API карт, авторизация через JWT, адаптивный дизайн.
+*   **Демо:** [travel-planner-live.vercel.app](https://travel-planner-live.vercel.app)
 
-### [Название проекта 2](ссылка_на_репозиторий)
-Краткое описание.
-* **Технологии:** Python, Django, PostgreSQL, Celery
-* **Особенности:** Парсинг данных, асинхронные задачи, REST API.
+### [NeuroRecipe](https://github.com/milenakot/neuro-recipe-api)
+Бэкенд для кулинарного приложения с генерацией рецептов на основе продуктов в холодильнике.
+*   **Стэк:** Python, FastAPI, PostgreSQL, Redis
+*   **Фичи:** Использование LLM для генерации текста, оптимизация запросов к БД, покрытие тестами (90%).
+*   **Документация:** [neuro-recipe-api/docs](https://github.com/milenakot/neuro-recipe-api/blob/main/docs/README.md)
 
-*(Совет: закрепите эти же репозитории в настройках профиля, чтобы они отображались под README).*
+### [Portfolio-v2](https://github.com/milenakot/milenakot)
+Этот самый профиль, собранный на чистом Markdown с динамической статистикой.
+*   **Стэк:** Markdown, GitHub Actions
+*   **Фичи:** Автоматическое обновление графиков коммитов, темная тема.
 
 ## ? Вклад в Open Source
 
-* Участвовал в разработке библиотеки [название] (исправил баг #123).
-* Перевел документацию для проекта [название].
+* Исправила опечатку в документации библиотеки `Pandas` (PR #1024).
+* Участвую в локализации интерфейса `FreeCAD` (переведено 50+ строк).
 
-## ? Контакты
+## ? Как со мной связаться
 
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0?style=flat&logo=telegram&logoColor=white)](ссылка_на_ваш_профиль)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](ссылка_на_профиль)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ваш_email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Explore-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/milenakot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/milenakot)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-DC3545?style=flat&logo=gmail&logoColor=white)](mailto:milena.kot@example.com)
 
 ---
-*Постоянно открыт к новым проектам и интересным задачам.*
+*Всегда открыта к интересным задачам и новым знакомствам в IT.*
